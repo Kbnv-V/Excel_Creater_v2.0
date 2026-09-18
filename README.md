@@ -22,3 +22,6 @@
 ## Описание классов
 - Class ExcelProcessor - предназначен для работы с файлом excel через COM-объекты и для чтения информации из файла.
 - Class Corrector - предназначен для редактирования полученных данных через регулярные выражения.
+
+## Скачать
+Готовый `.exe` можно скачать здесь: [ExcelCreater.exe](https://github.com/Kbnv-V/Excel_Creater_v2.0/releases/download/v2.0/ExcelCreater.exe)
